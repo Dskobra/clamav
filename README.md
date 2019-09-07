@@ -53,9 +53,9 @@ Links to most packages (dbg symbols aren't really needed so I did not list them,
 [0.101.4](https://github.com/Dskobra/clamav/tree/Downloads/0.101.4)
 
 * Packages
-[clamav_0.101.4_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb)
-[clamav_0.101.4.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz)
+<br />[clamav_0.101.4_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb)
+<br />[clamav_0.101.4.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz)
 
 * GpG Signatures
-[clamav_0.101.4_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb.sig)
-[clamav_0.101.4.tar.gz.sig)](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
+<br />[clamav_0.101.4_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb.sig)
+<br />[clamav_0.101.4.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
