@@ -14,25 +14,25 @@ Debian doesn't keep clamav as updated as I'd like and to avoid gunking up my own
 
 
 -----OS-----
-Debian 10 amd64 (not tested on any other archs)
+<br />Debian 10 amd64 (not tested on any other archs)
 
 -----DEPS-----
-debhelper (>= 9),
-build-essential, 
-openssl, 
-libssl-dev, 
-libcurl4-openssl-dev, 
-zlib1g-dev, 
-libpng-dev, 
-libxml2-dev, 
-libjson-c-dev, 
-libbz2-dev, 
-libpcre3-dev, 
-libncurses-dev, 
-libmilter1.0.1, 
-libmilter-dev, 
-valgrind, 
-check
+<br />debhelper (>= 9),
+<br />build-essential, 
+<br />openssl, 
+<br />libssl-dev, 
+<br />libcurl4-openssl-dev, 
+<br />zlib1g-dev, 
+<br />libpng-dev, 
+<br />libxml2-dev, 
+<br />libjson-c-dev, 
+<br />libbz2-dev, 
+<br />libpcre3-dev, 
+<br />libncurses-dev, 
+<br />libmilter1.0.1, 
+<br />libmilter-dev, 
+<br />valgrind, 
+<br />check
 
 
 # Upstream
