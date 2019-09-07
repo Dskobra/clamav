@@ -40,8 +40,8 @@ Original code is available from https://www.clamav.net/downloads
 
 The src folder is a reupload from the upstream minus the debian folder.
 You can confirm the zero changes to upstream by:
-[*]Extracting the tarball obtained from the above link.
-[*]Copying the debian folder from the appropriate branch into the newly extracted clamav-* folder.
-[*]Run debuild -us -uc which will rebuid the debian package.
+* Extracting the tarball obtained from the above link.
+* Copying the debian folder from the appropriate branch into the newly extracted clamav-* folder.
+* Run debuild -us -uc which will rebuid the debian package.
 
 Instructions maybe subject to change if there are substational changes in clamav 0.102
