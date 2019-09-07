@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 06 Sep 2019 03:17:51 -0500
+Source: clamav
+Binary: clamav clamav-dbgsym
+Architecture: source amd64
+Version: 0.101.4
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Jordan Bottoms <jbttoms@gmail.com>
+Changed-By: Jordan Bottoms <jbttoms@gmail.com>
+Description:
+ clamav     - anti-virus utility for Unix - command-line interface
+Changes:
+ clamav (0.101.4) UNRELEASED; urgency=medium
+ .
+   * Initial release. (Closes: #XXXXXX)
+Checksums-Sha1:
+ fb6dacd7c85c7535619fa976d663731307b6ded0 713 clamav_0.101.4.dsc
+ ee4dafef9e62d79114f1936f579eb15d43216690 21331852 clamav_0.101.4.tar.gz
+ 924e73f109605a9cb06dd43ded00f9fa68742831 3295996 clamav-dbgsym_0.101.4_amd64.deb
+ 2c9f2b4802341b3c88204b5ce89257ff1a2e6b11 5939 clamav_0.101.4_amd64.buildinfo
+ 33d68170fd902447c3fe83743b1b4cdc7b964059 1105212 clamav_0.101.4_amd64.deb
+Checksums-Sha256:
+ 6712d46e82cb8c50f50368c33534b43a2de74370ca005c89d24838911063133a 713 clamav_0.101.4.dsc
+ 9689fd870c0573bc948ba61851d961c8b35e61262bb1ca6a07cfb39925a15723 21331852 clamav_0.101.4.tar.gz
+ de281aafd684676a027900bc2bd7bbd55462c7639f0531dee89ef52d97ba2a48 3295996 clamav-dbgsym_0.101.4_amd64.deb
+ fb5ae89f17e3327bfe3616fe1d732052217954b0bfd16f850269ac41b6822bcf 5939 clamav_0.101.4_amd64.buildinfo
+ f757b2d3f9fa3c5c9f05ebaa658c646f2c24866e0feadc6a9d78d60d162c3e3a 1105212 clamav_0.101.4_amd64.deb
+Files:
+ 9a48103dd3c88ff9ae5e9f5c5bea52fc 713 utils optional clamav_0.101.4.dsc
+ d54f9c3e0352bb070e66a8854dae9be0 21331852 utils optional clamav_0.101.4.tar.gz
+ 09311e379871a07e883ea16b0e47913d 3295996 debug optional clamav-dbgsym_0.101.4_amd64.deb
+ 45c179bbb492afcdb35bfad59f074947 5939 utils optional clamav_0.101.4_amd64.buildinfo
+ 3b154b0262f98c21bbf3ce264e1b6e35 1105212 utils optional clamav_0.101.4_amd64.deb
