@@ -5,10 +5,10 @@ Updated port of the clamav cli antivirus scanner for debian 10
 Debian doesn't keep clamav as updated as I'd like and to avoid gunking up my own server with build deps etc I made packages and shared the code. :P
 
 # Important Notes
-[*] Zero changes to upstream code minus the debian packaging scripts.
-[*] Unlike self compiling, the install locations are under /usr/bin, /usr/sbin etc instead of /usr/local.
-[*] At the moment the debian packing scripts do not add the clamav user and related permissions. I made a custom shell script to cover this.
-[*] Each new version has it's own branch.
+* Zero changes to upstream code minus the debian packaging scripts.
+* Unlike self compiling, the install locations are under /usr/bin, /usr/sbin etc instead of /usr/local.
+* At the moment the debian packing scripts do not add the clamav user and related permissions. I made a custom shell script to cover this.
+* Each new version has it's own branch.
 
 # System Requirements
 
