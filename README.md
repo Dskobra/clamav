@@ -56,6 +56,10 @@ Links to most packages (dbg symbols aren't really needed so I did not list them,
 <br />[clamav_0.101.4_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb)
 <br />[clamav_0.101.4.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz)
 
+* Scripts
+<br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/0.101.4/setup.sh)
+
 * GpG Signatures
 <br />[clamav_0.101.4_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb.sig)
 <br />[clamav_0.101.4.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
+<br /> [setup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/setup.sh.sig)
