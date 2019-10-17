@@ -50,7 +50,8 @@ Instructions maybe subject to change if there are substational changes in clamav
 
 Links to most packages (dbg symbols aren't really needed so I did not list them, but are still in the repo)
 
-[0.101.4](https://github.com/Dskobra/clamav/tree/Downloads/0.101.4)
+</br> Latest release is 0.102.0 (currently rebuilding)
+</br> Last release was [0.101.4](https://github.com/Dskobra/clamav/tree/Downloads/0.101.4)
 
 * Packages
 <br />[clamav_0.101.4_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb)
