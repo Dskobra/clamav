@@ -1,6 +1,0 @@
-19c12bb2ca19e68724c2854ed0512469518df19b0710cc2011a5ca540810979c config/config.guess
-19c12bb2ca19e68724c2854ed0512469518df19b0710cc2011a5ca540810979c libclamav/c++/config/config.guess
-2795acf509925cc962281ca9c5eefcb502ee897a3826188732a056bd340d5d68 libclamav/c++/llvm/autoconf/config.guess
-f7197ddfb309e86d5fbd7d3b440a5ababfbd4aac1e1f53b492e28e54db58b222 config/config.sub
-f7197ddfb309e86d5fbd7d3b440a5ababfbd4aac1e1f53b492e28e54db58b222 libclamav/c++/config/config.sub
-cf029433e47c80dfd17bc941d6ac54885171ea170eca2db3060f238e9069467a libclamav/c++/llvm/autoconf/config.sub
