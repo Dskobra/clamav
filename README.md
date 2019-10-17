@@ -49,7 +49,7 @@ You can confirm the zero changes to upstream by:
 
 Links to most packages (dbg symbols aren't really needed so I did not list them, but are still in the repo)
 
-</br> Latest release is [0.102.0] (https://github.com/Dskobra/clamav/tree/Downloads/0.102.0)
+</br> Latest release is [0.102.0](https://github.com/Dskobra/clamav/tree/Downloads/0.102.0)
 </br> Last release was [0.101.4](https://github.com/Dskobra/clamav/tree/Downloads/0.101.4)
 
 <br /> **Current release**
