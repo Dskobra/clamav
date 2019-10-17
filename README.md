@@ -57,11 +57,11 @@ Links to most packages (dbg symbols aren't really needed so I did not list them,
 <br />[clamav_0.102.0_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0_amd64.deb)
 <br />[clamav_0.102.0.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz)
 
-<br /> Scripts
+Scripts
 <br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/setup.sh)
 <br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/cleanup.sh)
 
-<br /> GpG Signatures
+GpG Signatures
 <br />[clamav_0.102.0_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz.sig)
 <br />[clamav_0.102.0.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
 <br /> [setup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/setup.sh.sig)
@@ -73,7 +73,7 @@ Links to most packages (dbg symbols aren't really needed so I did not list them,
 <br />[clamav_0.101.4_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb)
 <br />[clamav_0.101.4.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz)
 
-<br /> Scripts
+Scripts
 <br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/setup.sh)
 <br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/cleanup.sh)
 
