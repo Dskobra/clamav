@@ -61,7 +61,7 @@ Scripts
 <br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/setup.sh)
 <br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/cleanup.sh)
 
-GpG Signatures
+GPG Signatures
 <br />[clamav_0.102.0_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz.sig)
 <br />[clamav_0.102.0.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
 <br /> [setup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/setup.sh.sig)
@@ -77,7 +77,7 @@ Scripts
 <br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/setup.sh)
 <br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/cleanup.sh)
 
-GpG Signatures
+GPG Signatures
 <br />[clamav_0.101.4_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb.sig)
 <br />[clamav_0.101.4.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
 <br /> [setup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/setup.sh.sig)
