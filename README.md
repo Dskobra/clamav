@@ -53,8 +53,6 @@ Links to most packages (dbg symbols aren't really needed so I did not list them,
 </br> Last release was [0.101.4](https://github.com/Dskobra/clamav/tree/Downloads/0.101.4)
 
 * Current release
-
-* Last release
 * Packages
 <br />[clamav_0.102.0_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0_amd64.deb)
 <br />[clamav_0.102.0.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz)
