@@ -44,21 +44,39 @@ You can confirm the zero changes to upstream by:
 * Copying the debian folder from the appropriate branch into the newly extracted clamav-* folder.
 * Run debuild -us -uc which will rebuid the debian package.
 
-Instructions maybe subject to change if there are substational changes in clamav 0.102
 
 # Downloads
 
 Links to most packages (dbg symbols aren't really needed so I did not list them, but are still in the repo)
 
-</br> Latest release is 0.102.0 (currently rebuilding)
+</br> Latest release is [0.102.0] (https://github.com/Dskobra/clamav/tree/Downloads/0.102.0)
 </br> Last release was [0.101.4](https://github.com/Dskobra/clamav/tree/Downloads/0.101.4)
 
+* Current release
+
+* Last release
+* Packages
+<br />[clamav_0.102.0_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0_amd64.deb)
+<br />[clamav_0.102.0.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz)
+
+* Scripts
+<br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/setup.sh)
+<br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/cleanup.sh)
+
+* GpG Signatures
+<br />[clamav_0.102.0_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz.sig)
+<br />[clamav_0.102.0.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
+<br /> [setup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/setup.sh.sig)
+<br />[cleanup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/cleanup.sh.sig)
+
+
+* Last release
 * Packages
 <br />[clamav_0.101.4_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb)
 <br />[clamav_0.101.4.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz)
 
 * Scripts
-<br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/0.101.4/setup.sh)
+<br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/setup.sh)
 <br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/cleanup.sh)
 
 * GpG Signatures
