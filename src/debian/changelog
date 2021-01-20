@@ -1,0 +1,5 @@
+clamav (0.103.0) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Jordan Bottoms <jbttoms@gmail.com>  Wed, 20 Jan 2021 05:17:30 -0600
