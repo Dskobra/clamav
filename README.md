@@ -32,7 +32,8 @@ Debian doesn't keep clamav as updated as I'd like and to avoid gunking up my own
 <br />libmilter1.0.1, 
 <br />libmilter-dev, 
 <br />valgrind, 
-<br />check
+<br />check,
+<br />pkg-config
 
 
 # Upstream
@@ -49,36 +50,8 @@ You can confirm the zero changes to upstream by:
 
 Links to most packages (dbg symbols aren't really needed so I did not list them, but are still in the repo)
 
-</br> Latest release is [0.102.0](https://github.com/Dskobra/clamav/tree/Downloads/0.102.0)
-</br> Last release was [0.101.4](https://github.com/Dskobra/clamav/tree/Downloads/0.101.4)
+</br> Current release is [0.103.0](https://github.com/Dskobra/clamav/tree/Downloads/0.103.0)
+</br> Previous release was [0.102.0](https://github.com/Dskobra/clamav/tree/Downloads/0.102.0)
 
-<br /> **Current release**
-<br /> Packages
-<br />[clamav_0.102.0_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0_amd64.deb)
-<br />[clamav_0.102.0.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz)
-
-Scripts
-<br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/setup.sh)
-<br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.102.0/cleanup.sh)
-
-GPG Signatures
-<br />[clamav_0.102.0_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/clamav_0.102.0.tar.gz.sig)
-<br />[clamav_0.102.0.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
-<br /> [setup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/setup.sh.sig)
-<br />[cleanup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.102.0/cleanup.sh.sig)
-
-
-<br />  **Last release**
-<br /> Packages
-<br />[clamav_0.101.4_amd64.deb](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb)
-<br />[clamav_0.101.4.tar.gz](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz)
-
-Scripts
-<br /> [setup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/setup.sh)
-<br /> [cleanup.sh](https://raw.githubusercontent.com/Dskobra/clamav/Downloads/0.101.4/cleanup.sh)
-
-GPG Signatures
-<br />[clamav_0.101.4_amd64.deb.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4_amd64.deb.sig)
-<br />[clamav_0.101.4.tar.gz.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/clamav_0.101.4.tar.gz.sig)
-<br /> [setup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/setup.sh.sig)
-<br />[cleanup.sh.sig](https://github.com/Dskobra/clamav/raw/Downloads/0.101.4/cleanup.sh.sig)
+*Note* The clamav-dbgsym*.deb packages just include debugging symbols. They are automatically built by the debian packaging scripts
+and provided in case someone finds them useful. Most people can ignore these.
